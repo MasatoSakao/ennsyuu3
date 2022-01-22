@@ -25,13 +25,23 @@ a {
   display: block;
   margin-left: auto;
   position: relative;
+  z-index: -1;
 }
 .見出し1 {
-  font-size: 40px;
-  position: absolute;
-  padding-bottom: 40px;
+  font-family: 'Gorditas', cursive;
+  font-size: 70px;
+  margin: -500px 0 0 500px;
+  color: red;
 }
 .見出し2 {
   font-size: 40px;
-  position: absolute;
+  margin: 50px 0 0 500px;
+  color: red;
+}
+span {
+  color: green;
+}
+.見出し3 {
+  font-size: 25px;
+  margin: 0 0 0 500px;
 }
