@@ -1,8 +1,11 @@
 a {
     text-decoration: none;
     color: inherit;
-}
 
+}
+.image {
+    width: 200px;
+}
 .header {
     display: flex;
     justify-content: space-between;
@@ -17,4 +20,8 @@ ul {
 }
 li {
     padding: 10px 10px 10px 10px;
+}
+.image2 {
+    display: block;
+    margin-left: auto;
 }
