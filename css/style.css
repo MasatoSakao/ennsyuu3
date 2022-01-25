@@ -1,47 +1,38 @@
-a {
-  text-decoration: none;
-  color: inherit;
-
+.header-logo {
+width: 200px;
 }
-.image {
-  width: 200px;
-}
-.header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-.header-nav {
+ul {
   list-style: none;
-  padding-right: 10px;
-}
-.header-nav-list {
   display: flex;
 }
-.header-nav-item {
+.header-list {
+float: right;
+}
+li {
   padding: 10px 10px 10px 10px;
 }
-.image2 {
+.main_gazou {
   display: block;
   margin-left: auto;
   position: relative;
-  z-index: -1;
 }
-.見出し1 {
-  font-family: 'Gorditas', cursive;
-  font-size: 70px;
+.message1 {
   margin: -500px 0 0 500px;
+  font-size: 70px;
+  position: absolute;
+  color: red;
+  font-family: 'Gorditas', cursive
+}
+.message2 {
+  font-size: 40px;
+  margin: -350px 0 0 500px;
+  position: absolute;
   color: red;
 }
-.見出し2 {
-  font-size: 40px;
-  margin: 50px 0 0 500px;
-  color: red;
+.message3 {
+  font-size: 25px;
+  margin: -300px 0 0 500px;
 }
 span {
   color: green;
-}
-.見出し3 {
-  font-size: 25px;
-  margin: 0 0 0 500px;
 }
