@@ -25,14 +25,25 @@ li {
 }
 .message2 {
   font-size: 40px;
-  margin: -350px 0 0 500px;
+  margin: -300px 0 0 500px;
   position: absolute;
   color: red;
 }
 .message3 {
   font-size: 25px;
-  margin: -300px 0 0 500px;
+  margin: -250px 0 0 500px;
 }
 span {
   color: green;
+}
+.News {
+margin: 300px 0 0 600px;
+  color: red;
+  font-family: 'Gorditas', cursive
+}
+.NewNews {
+  margin: 0 0 0 600px;
+}
+.message4 {
+  margin: 0 0 0 600px;
 }
