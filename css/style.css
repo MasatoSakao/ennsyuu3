@@ -37,7 +37,7 @@ span {
   color: green;
 }
 .News {
-margin: 300px 0 0 600px;
+  margin: 300px 0 0 600px;
   color: red;
   font-family: 'Gorditas', cursive
 }
@@ -47,3 +47,7 @@ margin: 300px 0 0 600px;
 .message4 {
   margin: 0 0 0 600px;
 }
+.section {
+  width: 1600px;
+  margin: 0 auto;
+} 
