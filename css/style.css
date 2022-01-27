@@ -51,21 +51,35 @@ span {
   width: 1600px;
   margin: 0 auto;
 } 
-.about {
-  margin: 200px 0 0 900px;
+.about3 {
+  margin: 200px 0 0 950px;
   color: red;
   font-family: 'Gorditas', cursive
 }
-.about2 {
+.about4 {
   margin: 0 0 0 850px;
 }
-.abouttt {
+.about1 {
   display: flex;
-  justify-content: space-between;
 }
-.aboutt {
-
+.about4 {
+  font-size: 25px;
 }
 .main_gazou1 {
-  width: 300px;
+  width: 500px;
+  margin: 300px 0 0 0;
+}
+.message5 {
+  margin: 100px 0 0 500px;
+  font-size: 25px;
+}
+.message6 {
+  margin: 30px 0 0 500px;
+  font-size: 25px;
+}
+.service3 {
+  margin: 500px 0 0 500px;
+}
+.service4 {
+  margin: 400px 0 0 0;
 }
