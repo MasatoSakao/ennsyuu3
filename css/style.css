@@ -59,16 +59,13 @@ span {
 .about2 {
   margin: 0 0 0 850px;
 }
-.message5 {
-  margin: 20px 0 0 500px;
+.abouttt {
+  display: flex;
+  justify-content: space-between;
 }
-.message6 {
-  margin: 20px 0 0 500px;
+.aboutt {
+
 }
 .main_gazou1 {
   width: 300px;
-  display: block;
-  margin-left: auto;
-  position: relative;
-  margin: 0 auto;
 }
