@@ -11,7 +11,7 @@ float: right;
 li {
   padding: 10px 10px 10px 10px;
 }
-.main_gazou {
+.page_gazou {
   display: block;
   margin-left: auto;
   position: relative;
@@ -51,3 +51,24 @@ span {
   width: 1600px;
   margin: 0 auto;
 } 
+.about {
+  margin: 200px 0 0 900px;
+  color: red;
+  font-family: 'Gorditas', cursive
+}
+.about2 {
+  margin: 0 0 0 850px;
+}
+.message5 {
+  margin: 20px 0 0 500px;
+}
+.message6 {
+  margin: 20px 0 0 500px;
+}
+.main_gazou1 {
+  width: 300px;
+  display: block;
+  margin-left: auto;
+  position: relative;
+  margin: 0 auto;
+}
