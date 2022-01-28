@@ -83,5 +83,32 @@ span {
   font-family: 'Gorditas', cursive
 }
 .Service4 {
-  margin: 0 0 0 500px;
+  margin: 10px 0 0 500px;
+}
+.grid {
+  display: grid;
+}
+.grid__parent {
+  display: grid;
+  grid-template-rows: 300px 300px;
+  grid-template-columns: 2fr 1fr 1fr;
+}
+.box1 {
+  grid-column: 1/4;
+  grid-row: 1/1;
+  background: #004e4e;
+}
+.box2 {
+  grid-column: 1/4;
+  grid-row: 2/4;
+  background: #008888;
+}
+.main_gazou2 {
+  width: 200px;
+}
+.main_gazou3 {
+  width: 200px;
+}
+.main_gazou4 {
+  width: 200px;
 }
