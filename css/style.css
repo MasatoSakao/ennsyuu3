@@ -93,22 +93,21 @@ span {
   grid-template-rows: 300px 300px;
   grid-template-columns: 2fr 1fr 1fr;
 }
-.box1 {
-  grid-column: 1/4;
-  grid-row: 1/1;
-  background: #004e4e;
-}
-.box2 {
-  grid-column: 1/4;
-  grid-row: 2/4;
-  background: #008888;
-}
 .main_gazou2 {
-  width: 200px;
+  width: 300px;
+  grid-column: 1/4;
+  grid-row: 1/2;
+  background: #004e4e;
 }
 .main_gazou3 {
   width: 200px;
+  grid-column: 1/4;
+  grid-row: 2/4;
+  background: #00888;
 }
 .main_gazou4 {
-  width: 200px;
+  width: 300px;
+  grid-column: 1/4;
+  grid-row: 2/4;
+  background: #00888;
 }
