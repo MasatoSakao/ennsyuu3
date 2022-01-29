@@ -93,21 +93,21 @@ span {
   grid-template-rows: 300px 300px;
   grid-template-columns: 2fr 1fr 1fr;
 }
-.main_gazou2 {
+.box1 {
   width: 300px;
-  grid-column: 1/4;
+  grid-column: 2/4;
   grid-row: 1/2;
-  background: #004e4e;
+  background-color:tomato;
 }
-.main_gazou3 {
-  width: 200px;
-  grid-column: 1/4;
-  grid-row: 2/4;
-  background: #00888;
-}
-.main_gazou4 {
+.box2 {
   width: 300px;
-  grid-column: 1/4;
+  grid-column: 3/4;
+  grid-row: 1/2;
+  background-color: thistle;
+}
+.box3 {
+  width: 300px;
+  grid-column: 3/4;
   grid-row: 2/4;
-  background: #00888;
+  background-color: pink;
 }
