@@ -89,8 +89,8 @@ span {
   grid-column: 1/2;
   grid-row: 1/3;
   background-color:tomato;
-  padding: 100px;
   color: white;
+  width: 100%;
 }
 .box1 img{
   width: 200px;
@@ -101,6 +101,7 @@ span {
   background-color:thistle;
   display: flex;
   color: white;
+  width: 100%;
 }
 .box3 {
   grid-column: 2/3;
@@ -108,15 +109,17 @@ span {
   background-color:pink;
   display: flex;
   color: white;
+  width: 100%;
 }
 .grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 200px 200px;
-  width: 200px;
-  
+  width: 50%;
+  padding: 10px 0 0 500px;
 }
-.blog4 {
+.card img {
 display: flex;
-justify-self: space-between;
+justify-content: space-between;
+width: 500px;
 }
