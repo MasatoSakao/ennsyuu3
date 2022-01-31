@@ -91,7 +91,9 @@ span {
   background-color:tomato;
   padding: 100px;
   color: white;
-  width: 100px;
+}
+.box1 img{
+  width: 200px;
 }
 .box2 {
   grid-column: 2/3;
@@ -111,4 +113,9 @@ span {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 200px 200px;
+  
+}
+.blog4 {
+display: flex;
+justify-self: space-between;
 }
