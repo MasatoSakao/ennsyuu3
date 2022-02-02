@@ -120,6 +120,20 @@ span {
 }
 .Blog7 {
 display: flex;
-justify-content: space-between;
-width: 200px;
+justify-content: center;
+}
+.card img {
+  width: 300px;
+}
+.Blog3 {
+  margin: 20px 0 0 500px;
+  color: red;
+  font-family: 'Gorditas', cursive
+}
+.Blog4 {
+  margin: 0 0 0 500px;
+}
+button {
+  border-radius: 30px;
+  color: red
 }
