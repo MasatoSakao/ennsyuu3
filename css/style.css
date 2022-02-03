@@ -136,6 +136,33 @@ justify-content: center;
 button {
   display: block;
   border-radius: 30px;
-  color: red
+  color: red;
   margin: 0 auto;
+}
+.company3 {
+  margin: 20px 0 0 500px;
+  color: red;
+  font-family: 'Gorditas', cursive
+}
+.company4 {
+  margin: 0 0 0 500px;
+}
+.kaisha {
+width: 50%;
+margin: 0 auto;
+}
+
+.kaisha th,
+.kaisha td {
+border: 1px solid #ccc;
+padding: 20px;
+}
+
+.kaisha th {
+font-weight: bold;
+background-color: #dedede; 
+}
+.footer3 {
+  display: flex;
+  margin: auto;
 }
