@@ -164,5 +164,13 @@ background-color: #dedede;
 }
 .footer2 {
   display: flex;
-  margin: auto;
+}
+.footer3 {
+  width: 50%;
+}
+.footer4 {
+  width: 50%;
+}
+.img {
+  width: 100%;
 }
