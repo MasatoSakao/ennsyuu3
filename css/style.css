@@ -211,5 +211,13 @@ span2 {
 }
 .footer5::after {
   content: '|';
+  margin: 30px 0 0 -150px ;
   position: absolute;
+  color: red;
+}
+button2 {
+  display: block;
+  border-radius: 30px;
+  color: red;
+  margin: 0 auto;
 }
