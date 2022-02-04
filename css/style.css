@@ -11,13 +11,14 @@ float: right;
 li {
   padding: 10px 10px 10px 10px;
 }
-.page_gazou {
+.top-page {
   display: block;
   margin-left: auto;
   position: relative;
+  width: 50%
 }
 .message1 {
-  margin: -500px 0 0 500px;
+  margin: -500px 0 0 -500px;
   font-size: 70px;
   position: absolute;
   color: red;
@@ -25,13 +26,13 @@ li {
 }
 .message2 {
   font-size: 40px;
-  margin: -300px 0 0 500px;
+  margin: -300px 0 0 -500px;
   position: absolute;
   color: red;
 }
 .message3 {
   font-size: 25px;
-  margin: -250px 0 0 500px;
+  margin: -250px 0 0 -500px;
 }
 span {
   color: green;
@@ -171,6 +172,39 @@ background-color: #dedede;
 .footer4 {
   width: 50%;
 }
-.img {
+img {
   width: 100%;
+}
+div {
+  position: relative;
+}
+span1 {
+  position: absolute;
+  top: 100;
+  left: 0;
+  color:white;
+  font-size:3em;
+    font-weight: 600;
+    top: 50%; 
+    left: 50%; 
+    -ms-transform: translate(-50%, -50%); 
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%); 
+}
+span2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    color:white;    
+    font-size:3em;
+    font-weight: 600;
+    top: 50%; 
+    left: 50%; 
+    -ms-transform: translate(-50%, -50%); /
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%); 
+}
+.footer5 {
+  margin-top:30px;
+  margin: 50px 0 0 800px;
 }
