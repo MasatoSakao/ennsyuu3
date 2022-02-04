@@ -205,16 +205,13 @@ span2 {
     transform: translate(-50%, -50%); 
 }
 .footer5 {
-  top: 50px;
-  left: 800px;
   position: relative;
 }
 .footer5::after {
-  content: '|';
-  margin: 30px 0 0 -150px ;
+  content: '|';;
   position: absolute;
   color: red;
 }
-.Otoiawase_btn {
- margin: auto;
+.inquiry_btn {
+  display: block;
 }
