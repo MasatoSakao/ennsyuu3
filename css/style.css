@@ -215,9 +215,6 @@ span2 {
   position: absolute;
   color: red;
 }
-button2 {
-  display: block;
-  border-radius: 30px;
-  color: red;
-  margin: 0 auto;
+.Otoiawase_btn {
+ margin: auto;
 }
