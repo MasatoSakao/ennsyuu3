@@ -205,6 +205,11 @@ span2 {
     transform: translate(-50%, -50%); 
 }
 .footer5 {
-  margin-top:30px;
-  margin: 50px 0 0 800px;
+  top: 50px;
+  left: 800px;
+  position: relative;
+}
+.footer5::after {
+  content: '|';
+  position: absolute;
 }
