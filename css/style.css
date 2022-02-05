@@ -206,6 +206,7 @@ span2 {
 }
 .footer5 {
   position: relative;
+  text-align: center;
 }
 .footer5::after {
   content: '|';;
