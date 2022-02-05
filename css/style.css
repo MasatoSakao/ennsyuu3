@@ -212,6 +212,8 @@ span2 {
   content: '|';;
   position: absolute;
   color: red;
+  top: 30px;
+  right: 950px;
 }
 .inquiry_btn {
   display: block;
