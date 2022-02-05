@@ -204,7 +204,7 @@ span2 {
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%); 
 }
-.h1 footer5 {
+.footer5 {
   position: relative;
 }
 .footer5::after {
@@ -214,4 +214,5 @@ span2 {
 }
 .inquiry_btn {
   display: block;
+  text-align: center;
 }
