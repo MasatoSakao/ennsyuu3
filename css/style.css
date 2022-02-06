@@ -12,13 +12,12 @@ li {
   padding: 10px 10px 10px 10px;
 }
 .top-page {
-  display: block;
+  display: flex;
   margin-left: auto;
   position: relative;
   width: 50%
 }
 .message1 {
-  margin: -500px 0 0 -400px;
   font-size: 80px;
   position: absolute;
   color: red;
@@ -26,13 +25,13 @@ li {
 }
 .message2 {
   font-size: 30px;
-  margin: -300px 0 0 -400px;
+ 
   position: absolute;
   color: red;
 }
 .message3 {
   font-size: 25px;
-  margin: -250px 0 0 -400px;
+ 
 }
 span {
   color: green;
@@ -56,26 +55,28 @@ span {
   margin: 0 auto;
 } 
 .about3 {
+  padding : 0 0 0 800px;
   color: red;
   font-family: 'Gorditas', cursive
 }
 .about1 {
   display: flex;
-  justify-content: space-between;  
+  justify-content: space-around;  
 }
 .about4 {
+  padding: 0 0 0 650px;
   font-size: 25px;
-
-  padding: 40px;
 }
 .main_gazou1 {
-  width: 600px;
+  width: 400px;
 }
 .message5 {
   font-size: 25px;
+  padding: 50px 0 0 500px;
 }
 .message6 {
   font-size: 25px;
+  padding: 0 0 0 500px;
 }
 .Service3 {
   margin: 100px 0 0 500px;
