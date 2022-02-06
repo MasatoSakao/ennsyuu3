@@ -18,21 +18,21 @@ li {
   width: 50%
 }
 .message1 {
-  margin: -500px 0 0 -500px;
-  font-size: 70px;
+  margin: -500px 0 0 -400px;
+  font-size: 80px;
   position: absolute;
   color: red;
   font-family: 'Gorditas', cursive
 }
 .message2 {
-  font-size: 40px;
-  margin: -300px 0 0 -500px;
+  font-size: 30px;
+  margin: -300px 0 0 -400px;
   position: absolute;
   color: red;
 }
 .message3 {
   font-size: 25px;
-  margin: -250px 0 0 -500px;
+  margin: -250px 0 0 -400px;
 }
 span {
   color: green;
@@ -47,11 +47,18 @@ span {
 }
 .message4 {
   margin: 0 0 0 600px;
+  border-top: solid 1px gray;
+  border-bottom: solid 1px gray;
+  display: inline-block;
 }
 .section {
   width: 1600px;
   margin: 0 auto;
 } 
+.about1 {
+  background-color: gray;
+  display: inline-block;
+}
 .about3 {
   margin: 200px 0 0 950px;
   color: red;
@@ -200,7 +207,7 @@ span2 {
     font-weight: 600;
     top: 50%; 
     left: 50%; 
-    -ms-transform: translate(-50%, -50%); /
+    -ms-transform: translate(-50%, -50%); 
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%); 
 }
