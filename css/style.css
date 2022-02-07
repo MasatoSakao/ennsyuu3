@@ -37,21 +37,20 @@ li {
 }
 .message3 {
   font-size: 35px;
- 
 }
 span {
   color: green;
 }
-.News {
-  margin: 300px 0 0 600px;
+.News1 {
+  margin: 0 auto
+  width: 50%;
+}
+.News2 {
   color: red;
   font-family: 'Gorditas', cursive
 }
-.NewNews {
-  margin: 0 0 0 600px;
-}
 .message4 {
-  margin: 0 0 0 600px;
+  
   border-top: solid 1px gray;
   border-bottom: solid 1px gray;
   display: inline-block;
