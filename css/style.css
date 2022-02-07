@@ -13,9 +13,15 @@ li {
 }
 .top-page {
   display: flex;
-  margin-left: auto;
   position: relative;
   width: 50%
+}
+.page_gazou {
+  position: absolute;
+  right: 0;
+}
+.top-page {
+  position: 
 }
 .message1 {
   font-size: 80px;
