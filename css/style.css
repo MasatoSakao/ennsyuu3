@@ -42,15 +42,15 @@ span {
   color: green;
 }
 .News1 {
-  margin: 0 auto
+  margin: 0 auto;
   width: 50%;
+  padding-top: 150px;
 }
 .News2 {
   color: red;
   font-family: 'Gorditas', cursive
 }
 .message4 {
-  
   border-top: solid 1px gray;
   border-bottom: solid 1px gray;
   display: inline-block;
@@ -60,16 +60,18 @@ span {
   margin: 0 auto;
 } 
 .about3 {
-  padding : 0 0 0 800px;
   color: red;
   font-family: 'Gorditas', cursive
 }
 .about1 {
   display: flex;
-  justify-content: space-around;  
+  justify-content: center;
 }
+.about2 {
+  background-color: gray;
+}
+
 .about4 {
-  padding: 0 0 0 650px;
   font-size: 25px;
 }
 .main_gazou1 {
@@ -77,11 +79,10 @@ span {
 }
 .message5 {
   font-size: 25px;
-  padding: 50px 0 0 500px;
 }
 .message6 {
   font-size: 25px;
-  padding: 0 0 0 500px;
+
 }
 .Service3 {
   margin: 100px 0 0 500px;
