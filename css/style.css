@@ -70,7 +70,9 @@ span {
 .about2 {
   background-color: gray;
 }
-
+.example {
+  display: flex;
+}
 .about4 {
   font-size: 25px;
 }
