@@ -55,8 +55,10 @@ span {
   border-bottom: solid 1px gray;
   display: inline-block;
 }
-.about6 {
+.about7 {
   background-color: grey;
+}
+.about6 {
   text-align: center;
 }
 .about3 {
@@ -66,9 +68,6 @@ span {
 .about1 {
   display: flex;
   justify-content: space-around;
-}
-.about2 {
-  background-color: gray;
 }
 .about5 {
   display: flex;
