@@ -55,10 +55,8 @@ span {
   border-bottom: solid 1px gray;
   display: inline-block;
 }
-.section {
-  background-color: grey;
-}
 .about6 {
+  background-color: grey;
   text-align: center;
 }
 .about3 {
