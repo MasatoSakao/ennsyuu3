@@ -56,16 +56,18 @@ span {
   display: inline-block;
 }
 .section {
-  width: 1600px;
-  margin: 0 auto;
-} 
+  background-color: grey;
+}
+.about6 {
+  text-align: center;
+}
 .about3 {
   color: red;
   font-family: 'Gorditas', cursive
 }
 .about1 {
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
 }
 .about2 {
   background-color: gray;
