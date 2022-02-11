@@ -86,12 +86,12 @@ span {
 
 }
 .Service3 {
-  margin: 100px 0 0 500px;
+  padding: 100px 0 0 200px; 
   color: red;
   font-family: 'Gorditas', cursive
 }
 .Service4 {
-  margin: 10px 0 0 500px;
+  padding: 0 0 0 200px;
 }
 .box1 {
   grid-column: 1/2;
@@ -113,6 +113,9 @@ span {
   color: white;
   width: 100%;
 }
+.box2 img {
+  width: 200px;
+}
 .box3 {
   grid-column: 2/3;
   grid-row: 2/3;
@@ -121,16 +124,22 @@ span {
   color: white;
   width: 100%;
 }
+.box3 img {
+width: 200px;
+}
 .grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 200px 200px;
-  width: 50%;
-  padding: 10px 0 0 500px;
+  width: 80%;
+  margin: 0 auto;
+}
+.Blog1 {
+  background-color: grey;
 }
 .Blog7 {
 display: flex;
-justify-content: center;
+justify-content: space-around;
 }
 .card img {
   width: 300px;
