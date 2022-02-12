@@ -140,6 +140,8 @@ width: 200px;
 .Blog7 {
 display: flex;
 justify-content: space-around;
+width: 1000px;
+margin: 0 0 0 300px;
 }
 .card img {
   width: 300px;
@@ -152,6 +154,13 @@ justify-content: space-around;
 .Blog4 {
   margin: 0 0 0 500px;
 }
+.Blog7 {
+  position: relative;
+}
+.Blog8 {
+  position: absolute;
+  color:white;
+} 
 button {
   display: block;
   border-radius: 30px;
