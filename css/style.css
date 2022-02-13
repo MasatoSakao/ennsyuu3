@@ -163,6 +163,11 @@ margin: 0 0 0 300px;
   position: absolute;
   color:white;
 } 
+.blog9 {
+  position: relative;
+  top: 0;
+  left: 0;
+}
 button {
   display: block;
   border-radius: 30px;
