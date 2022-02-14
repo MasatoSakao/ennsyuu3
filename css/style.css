@@ -278,3 +278,6 @@ img {
   height: 30px;
   transform: translateY(-50%);
 }
+h3 {
+  text-align: center;
+}
